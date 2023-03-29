@@ -1,3 +1,14 @@
+## [0.0.37](https://github.com/sjs14/test-changelog/compare/v0.0.36...v0.0.37) (2023-03-29)
+
+
+### Features
+
+* **App.vue:** 只提交app.vue ([abd84d6](https://github.com/sjs14/test-changelog/commit/abd84d62451f4e0b8015127126810a72dd1fd3f3))
+* **HelloWorld.vue:** 只提交hello ([363f830](https://github.com/sjs14/test-changelog/commit/363f8300069f0fbb14ba9dbe121cdc5bfc3868d4))
+* **style.css:** 只提交css ([b672df1](https://github.com/sjs14/test-changelog/commit/b672df1d9f5bbcfec75ffed2aa12b46701d2ceaa))
+
+
+
 ## [0.0.36](https://github.com/sjs14/test-changelog/compare/v0.0.35...v0.0.36) (2023-03-29)
 
 
