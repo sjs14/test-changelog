@@ -6,9 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc && vite build",
-    "preview": "vite preview",
-    "version": "conventional-changelog -p angular -i CHANGELOG.md -s && git add CHANGELOG.md",
-    "postversion": "git push && git push origin --tags"
+    "preview": "vite preview"
   },
   "dependencies": {
     "vue": "^3.2.47"
