@@ -1,12 +1,13 @@
 {
   "name": "test-changelog",
   "private": true,
-  "version": "0.0.20",
+  "version": "0.0.16",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "precommit":"node test-node.js"
   },
   "dependencies": {
     "vue": "^3.2.47"
